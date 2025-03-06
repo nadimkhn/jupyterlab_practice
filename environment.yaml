@@ -1,0 +1,8 @@
+name: jupyterlab_env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - ipykernel
+prefix: /opt/miniconda3/envs/jupyterlab_env
